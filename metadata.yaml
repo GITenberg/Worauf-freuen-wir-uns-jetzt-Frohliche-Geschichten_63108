@@ -1,0 +1,35 @@
+_repo: Worauf-freuen-wir-uns-jetzt-Frohliche-Geschichten_63108
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Müller-Partenkirchen, Fritz
+    aliases:
+    - Muller-Partenkirchen, Fritz
+    - Müller-Partenkirchen, F. (Fritz)
+    - Müller, Fritz
+    birthdate: 1875
+    deathdate: 1942
+    gutenberg_agent_id: '52276'
+    url: http://www.gutenberg.org/2009/agents/52276
+    wikipedia: https://de.wikipedia.org/wiki/Fritz_M%C3%BCller-Partenkirchen
+description: ''
+gutenberg_issued: '2020-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63108'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, German'
+- !lcsh 'German fiction -- 20th century'
+- !lcc 'PT'
+- GITenberg
+tableOfContents: Worauf freuen wir uns jetzt? -- In deinem Alter -- Der Rauchtisch
+  -- Der Familienaufsatz -- Der Hunderter -- Der Spohrer -- Glück -- Das blaue Band
+  -- Die Rundfrage -- Das Kugelzimmer -- Schmuckel -- Jod -- Morgan -- Tag- und Nachtärger.
+title: 'Worauf freuen wir uns jetzt?
+
+  Fröhliche Geschichten'
+url: http://www.gutenberg.org/ebooks/63108
